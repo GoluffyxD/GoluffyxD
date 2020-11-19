@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Kiran MHM aka GoluffyxD 👋 
 
-<!--
-**GoluffyxD/GoluffyxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a final year undergrad student who loves to learn and work on new technology.
+- 🔭 I’m currently working on a logical sudoku solver.
+- 🌱 I’m currently learning Typescript.
+- 👯 I’m looking to collaborate on more open source projects.
+- Interests: 
+  * :tv: Anime
+  * :basketball: Basketball
+  * :newspaper: Sudoku
+  * :mount_fuji: Trekking
+  * :video_game: Gaming
 
-Here are some ideas to get you started:
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="left" alt="GoluffyxD's GitHub Stats" src="https://github-readme-stats-drab-chi.vercel.app/api?username=goluffyxd&show_icons=true&hide_border=true" />
+
+</details>
