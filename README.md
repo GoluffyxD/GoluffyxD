@@ -11,9 +11,10 @@
   * :mount_fuji: Trekking
   * :video_game: Gaming
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goluffyxd&layout=compact&hide=dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GoluffyxD's GitHub Stats" src="https://github-readme-stats-drab-chi.vercel.app/api?username=goluffyxd&show_icons=true&hide_border=true" />
+  <img align="left" alt="GoluffyxD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=goluffyxd&show_icons=true&hide_border=true" />
 
 </details>
