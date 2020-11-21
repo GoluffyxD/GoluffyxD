@@ -8,11 +8,12 @@
   * :tv: Anime
   * :basketball: Basketball
   * :newspaper: Sudoku
+  * :book: Reading
   * :mount_fuji: Trekking
   * :video_game: Gaming
 
 ### Technology
-* <img src = 'https://image.flaticon.com/icons/svg/1822/1822899.svg' height='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
+* <img src = 'https://image.flaticon.com/icons/svg/1822/1822899.svg' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
 * Machine Learning
 <details>
   <summary>:zap: GitHub Stats</summary>
