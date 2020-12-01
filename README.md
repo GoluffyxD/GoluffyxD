@@ -1,6 +1,6 @@
 ### Hi there, I'm Kiran MHM aka GoluffyxD 👋 
 
-### I'm a final year undergrad student who loves to learn and work on new technology.
+### I'm a final year computer science undergrad student who loves to learn and work on new technology.
 - 🔭 I’m currently working on a [Human Sudoku Solver](https://github.com/GoluffyxD/human-sudoku-solver).
 - 🌱 I’m currently learning Typescript.
 - 👯 I’m looking to collaborate on more open source projects.
