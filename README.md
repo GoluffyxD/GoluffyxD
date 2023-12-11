@@ -1,7 +1,7 @@
 ### Hi there, I'm Kiran MHM aka GoluffyxD 👋 
 
-### I'm a Final year Computer Science Undergrad Student who loves to learn and work on new technology.
-- 🌱 I’m currently learning C#.
+### I'm a Computer Science Graduate Student who loves to learn and work on new technology.
+- 🌱 I’m currently learning Zig.
 - 👯 I’m looking to collaborate on more open source projects.
 - Interests: 
   * :tv: Anime
